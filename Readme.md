@@ -1,13 +1,15 @@
-# C Shell
+<h1 align="center"> C Shell</h1>
+
+#### Author - Himanshu Maheshwari
 Implementation of a C based bash shell using system calls
 
-## Getting Started
+#### Getting Started
 To run the shell, write:
     make
 Followed by:
     ./a.out
 
-## Features
+#### Features
 - Semicolon separated commands can be given as input. For e.g. echo hello ; ls -al will produce hello then the contents of the current directory.
 - Bonus
 	- Personal Reminder: It reminds you with a custom message after the given number of seconds elapse. The shell takes in commands during this time.
@@ -23,5 +25,4 @@ Followed by:
 - Redirection, piping and piping with redirection is implemented and is self made.
 - Shell is as close as real shell in all aspects.
 
-## Author
-	**Himanshu Maheshwari (20171033)**
+#### Cheers!!!
